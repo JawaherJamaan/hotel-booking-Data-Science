@@ -12,11 +12,11 @@ The survey amongst 2,000 participants delved into how people book their hotels, 
 We have data set **hotel-booking-demand** that represents booking data for a city hotel and a resort hotel with 1193900 records and 32 features. 
 Includes information such as when the booking was made, length of stay, the number of adults, children, and/or babies, 
 and the number of available parking spaces, among other things. I use this data set for extract useful information to hotels companies or booking apps.
-This dataset can be found at Kaggle: https://www.kaggle.com/jessemostipak/hotel-booking-demand/code 
+This dataset can be found at Kaggle: https://www.kaggle.com/jessemostipak/hotel-booking-demand/code <br>
   
-This dataset contains hotel for the following type:
-•	City hotel 
-•	Resort hotel
+This dataset contains hotel for the following type:<br>
+•	City hotel <br>
+•	Resort hotel<br>
 
 
 The dataset is available as the ```.csv``` file. a sample of data is shown in the following table:
