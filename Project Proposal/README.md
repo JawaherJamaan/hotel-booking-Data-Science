@@ -25,7 +25,7 @@ The dataset is available as the ```.csv``` file. a sample of data is shown in th
   <th>hotel</th><th>is_canceled</th><th>lead_time</th><th>arrival_date_year</th><th>arrival_date_month</th><th>arrival_date_week_number</th><th>arrival_date_day_of_month</th><th>stays_in_weekend_nights</th><th>stays_in_week_nights</th><th>stays_in_week_nights</th><th>adults</th><th>children</th><th>babies</th><th>meal</th><th>country</th><th>market_segment</th><th>is_repeated_guest</th><th>previous_cancellations</th><th>reserved_room_type</th><th>assigned_room_type</th><th>booking_changes</th><th>deposit_type</th><th>days_in_waiting_list</th><th>customer_type</th><th>adr</th><th>required_car_parking_spaces</th><th>total_of_special_requests</th><th>reservation_status</th><th>reservation_status_date</th>
  </tr>
  <tr>
-  <th>Resort Hotel</th><th>0</th><th>342</th><th>2015</th><th>July</th><th>27</th><th>1</th><th>0</th><th>0</th><th>2</th><th>0.0</th><th>0</th><th>BB</th><th>PRT</th><th>Direct</th><th>0</th><th>0</th><th>C</th><th>C</th><th>3</th><th>No Deposit</th><th>0</th><th>Transient</th><th>0.0</th><th>0</th><th>0</th><th>Check-Out</th><th>2015-07-01
+  <th>Resort Hotel</th><th>0</th><th>342</th><th>2015</th><th>July</th><th>27</th><th>1</th><th>0</th><th>0</th><th>2</th><th>0.0</th><th>0</th><th>BB</th><th>PRT</th><th>Direct</th><th>0</th><th>0</th><th>C</th><th>C</th><th>3</th><th>No Deposit</th><th>0</th><th>0</th><th>Transient</th><th>0.0</th><th>0</th><th>0</th><th>Check-Out</th><th>2015-07-01
 </th>
  </tr>
 </table>
