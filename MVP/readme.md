@@ -19,7 +19,7 @@ The data explored in addition to the EDA phase is done.
 The following figure illustrates the number of nights people stay in city hotel has more vacationers for the short term 
 and resort hotel a different rate, between 1 to 5 nights for staying long term.
 
-![pos_neg_sent](https://user-images.githubusercontent.com/36853625/137148801-a3d41640-e188-47a9-8974-f36fc52add5c.png)
+![pos_neg_sent](https://github.com/JawaherJamaan/hotel-booking-Data-Science/blob/main/MVP/Period%20stay.png)
 
 
 ## There are a few more steps to finish the project: 
