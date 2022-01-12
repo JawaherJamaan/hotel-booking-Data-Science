@@ -51,5 +51,5 @@ F1: 96%
 - imbalanced-learn to undersampling 
 
 ## Communication
-the slides  [here](https://github.com/imnawar/COVID-19_Vaccines_Tweets/blob/main/Presentation.pdf)
+the slides  [here](https://github.com/JawaherJamaan/hotel-booking-Data-Science/blob/main/Final/Presentation%20-%20Hotel%20Booking%20Cancelation.pdf)
 
