@@ -54,3 +54,4 @@ F1: 96% <br>
 ## Communication <br>
 the slides  [here](https://github.com/JawaherJamaan/hotel-booking-Data-Science/blob/main/Final/Presentation%20-%20Hotel%20Booking%20Cancelation.pdf)
 
+
